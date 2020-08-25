@@ -35,7 +35,7 @@ Instale a tabela de usuários executando o seguinte comando na raiz do projeto:
 
 **`php spark migrate`**
 
-Visite `/ register` em seu servidor local para começar.
+Visite `/register` em seu servidor local para começar.
 
 ## Lista de afazeres
 
