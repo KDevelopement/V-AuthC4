@@ -33,7 +33,7 @@ Habilite CSRF em `app/Config/Filters`.
 Certifique-se de que seu banco de dados está configurado no arquivo `.env` ou em `app/Config/Database.php`. 
 Instale a tabela de usuários executando o seguinte comando na raiz do projeto:
 
-## --- `php spark migrate`
+## `php spark migrate`
 
 Visite `/ register` em seu servidor local para começar.
 
