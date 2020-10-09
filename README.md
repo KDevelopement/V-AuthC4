@@ -1,14 +1,22 @@
 Uma biblioteca de autenticação simples para [CodeIgniter 4](https://codeigniter.com).
 
 **Recursos:**
-
-- Cadastro
-- Ativação de email
-- Login/Logout
-- Senha esquecida
-- Configurações da conta (com opções de alteração de senha e e-mail adequadas)
-- Proteção CSRF
-- localização
+- V1.0.0 <br />
+&nbsp;&nbsp; Cadastro <br />
+&nbsp;&nbsp; Ativação de email <br />
+&nbsp;&nbsp; Login/Logout <br />
+&nbsp;&nbsp; Senha esquecida <br />
+&nbsp;&nbsp; Configurações da conta (com opções de alteração de senha e e-mail adequadas) <br />
+&nbsp;&nbsp; Proteção CSRF <br />
+&nbsp;&nbsp; localização <br />
+- V1.0.2 <br />
+&nbsp;&nbsp; Fix  <br />
+&nbsp;&nbsp; Recaptcha [NEW]  <br />
+&nbsp;&nbsp; Sistema de rank  <br />
+&nbsp;&nbsp; Novas funções (Area Administrativa) <br />
+&nbsp;&nbsp; &nbsp;&nbsp; Banir  <br />
+&nbsp;&nbsp; &nbsp;&nbsp; Deletar  <br />
+&nbsp;&nbsp; &nbsp;&nbsp; Ativar/Desativar  <br />
 
 ## Instalar
 
